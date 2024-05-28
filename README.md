@@ -9,8 +9,8 @@ Welcome to my GitHub profile.
 - 🌱 I'm a FullStack developer student.
 
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jardsonlds&show_icons=true&theme=merko)<br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jardsonlds&layout=compact&show_icons=true&theme=merko)](https://github.com/jardsonlds/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesteffens&show_icons=true&theme=merko)<br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jardsonlds&layout=compact&show_icons=true&theme=merko)](https://github.com/felipesteffens/github-readme-stats)
  
 
 ### 💻 Technologies and tools i'm learning:
